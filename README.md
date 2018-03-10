@@ -1,3 +1,3 @@
 identidock
 =========
-Simple identicon server based on monsterid from Kevin Gaudin
+Simple identicon server based on monsterid from Kevin Gaudin !!!
